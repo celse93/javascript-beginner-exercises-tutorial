@@ -4,4 +4,7 @@ function isOdd(myNumber)
 }
 
 // Your code below:
-isOdd()
+
+
+let oddNumber = isOdd(45345);
+console.log(oddNumber);
